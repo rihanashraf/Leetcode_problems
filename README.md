@@ -6,5 +6,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/rihanashraf/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [2350-find-closest-number-to-zero](https://github.com/rihanashraf/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
