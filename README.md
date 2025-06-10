@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/rihanashraf/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [2350-find-closest-number-to-zero](https://github.com/rihanashraf/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
 ## Sorting
@@ -26,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
