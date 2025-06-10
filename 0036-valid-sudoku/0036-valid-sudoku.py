@@ -25,6 +25,8 @@ class Solution(object):
                     return False
                 elif item != ".":
                     dicti[item] =1
+
+        # WHy doesn't the while loop work???
         # works till now i think, need to create something for the 3*3 subs
 
         # for 3*3 subs
@@ -44,5 +46,12 @@ class Solution(object):
                 
         return True
                 
+        #In this particular case,
+        # Time : O(1)
+        # Space : O(1)
+        #because it is a finite set of 9*9 and doesnt take time
 
-        
+        #If it were a very large set, then
+        # Time : O(n^2) because you're looking at all the elements in the set multiple times
+        # 2 for loops
+        #Space : O(n) because storing in dicti for everytime in n for row, column or 3*3 grid, all are n so sum of muliple n's or like O(3n) boiled down to O(n)        
