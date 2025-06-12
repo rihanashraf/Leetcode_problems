@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -37,5 +38,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
