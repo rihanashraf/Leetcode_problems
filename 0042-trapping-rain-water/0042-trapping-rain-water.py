@@ -24,3 +24,7 @@ class Solution(object):
         return res
 
         #kinda hard, go through again later for greater clarity of concepts
+        #Time: O(n), cause looping through the height loop multiple times
+        #Space : O(n), cause making new arrays of same length as that of height
+
+        
