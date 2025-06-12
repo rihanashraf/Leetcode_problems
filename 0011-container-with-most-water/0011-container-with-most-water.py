@@ -17,3 +17,6 @@ class Solution(object):
                 l+=1
         return max_area
         
+        # really nice problem and good solution, look up later
+        #TIme : O(n)
+        # Space :O(1)
