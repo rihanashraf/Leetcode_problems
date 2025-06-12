@@ -4,12 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        output = []
-
-        for number in nums:
-            output.append(number**2)
-        output.sort()
-        return output
-
-        
+        for i in range(len(nums)):
+            nums[i] = nums[i]**2
+        nums.sort()
+        return nums        
         
