@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/rihanashraf/Leetcode_problems/tree/master/0228-summary-ranges) |
+| [0682-baseball-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/rihanashraf/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -60,8 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
