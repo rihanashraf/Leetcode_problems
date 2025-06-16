@@ -14,8 +14,11 @@ class Solution(object):
                 return False
             elif i +nums[i] >=len(nums)-1:
                 return True
-            elif nums[nums[i] +i] ==0:
+            elif nums[nums[i]+i] ==0:
                 nums[i] -=1
             else:
                 i+=nums[i]
         
+        #Not bad, but very slow, cause of multiple conditional statements
+        #Space : O(1)
+        #Time : O(n), i think
