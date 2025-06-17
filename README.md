@@ -81,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rihanashraf/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rihanashraf/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
