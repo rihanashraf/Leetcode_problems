@@ -10,22 +10,17 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        #Floyd's crazy solution
-        dummy = ListNode()
-        dummy.next = head
-        slow = fast = dummy #fast gon point to dummy and slow to fast
+        #using hashset
 
-        while fast and fast.next:
-            fast = fast.next.next
-            slow = slow.next
+        curr = head
+        s = set()
 
-            if slow is fast:
+        while curr:
+            if curr not in s:
+                s.add(curr)
+            else:
                 return True
-
+            curr = curr.next
         return False
-    
-
-    #Time : O(n)
-    #Space : O(1)
 
 
