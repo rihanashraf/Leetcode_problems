@@ -13,11 +13,11 @@ class Solution(object):
         #using hashset
 
         curr = head
-        s = set()
+        dicti = {}
 
         while curr:
-            if curr not in s:
-                s.add(curr)
+            if curr not in dicti:
+                dicti[curr] =1
             else:
                 return True
             curr = curr.next
