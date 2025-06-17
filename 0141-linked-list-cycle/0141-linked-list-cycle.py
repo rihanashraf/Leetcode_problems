@@ -10,6 +10,7 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+        #Floyd's crazy solution
         dummy = ListNode()
         dummy.next = head
         slow = fast = dummy #fast gon point to dummy and slow to fast
