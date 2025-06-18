@@ -11,6 +11,5 @@ class Solution(object):
                 return i
             elif nums[j] == target:
                 return len(nums) + j 
-            i +=1
         return -1
         
