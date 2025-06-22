@@ -21,7 +21,5 @@ class Solution(object):
             length -=1
             temp = temp/10
         
-        if number == x:
-            return True
-        return False
+        return True if number ==x else False
         
