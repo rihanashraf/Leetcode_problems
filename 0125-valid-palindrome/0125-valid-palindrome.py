@@ -4,13 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        s= s.lower()
-        s = ''.join(char for char in s if char.isalnum())
-        print(s)
+        s = s.lower()
+        new_s = ""
 
-        for i in range(len(s)/2+len(s)%2):
-            if s[i] == s[len(s)-i-1]:
-                continue
-            else:
+        for char in s:
+            if char.isalnum():
+                new_s += char
+        
+        for i in range(len(new_s)):
+            j = -i-1
+            if new_s[i]!= new_s[j]:
                 return False
-        return True       
+        return True
