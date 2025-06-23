@@ -11,7 +11,7 @@ class Solution(object):
             if char.isalnum():
                 new_s += char
         
-        for i in range(len(new_s)):
+        for i in range(len(new_s)/2):
             j = -i-1
             if new_s[i]!= new_s[j]:
                 return False
