@@ -12,7 +12,6 @@ class Solution(object):
                 new_s += char
         
         for i in range(len(new_s)/2):
-            j = -i-1
-            if new_s[i]!= new_s[j]:
+            if new_s[i]!= new_s[len(new_s)-i-1]:
                 return False
         return True
