@@ -5,15 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        #using hashmap
         dicti = {}
         for i in range(len(nums)):
             dicti[nums[i]] = i
 
         for i in range(len(nums)):
-            y = target - nums[i]
+            num = target - nums[i]
 
-            if y in dicti and dicti[y] !=i:
-                return [i, dicti[y]]
+            if num in dicti and dicti[num] !=i:
+                return [i, dicti[num]]
         
-
