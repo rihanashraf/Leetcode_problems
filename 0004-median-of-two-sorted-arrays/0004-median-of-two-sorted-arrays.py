@@ -10,24 +10,8 @@ class Solution(object):
 
         arr = []
 
-        i = 0
-        j = 0
-
-        while i != len(nums1) and j != len(nums2):
-            if nums1[i] > nums2[j]:
-                arr.append(nums2[j])
-                j +=1
-            else:
-                arr.append(nums1[i])
-                i+=1
-        if i != len(nums1):
-            while i != len(nums1):
-                arr.append(nums1[i]) 
-                i+=1
-        else:
-            while j != len(nums2):
-                arr.append(nums2[j]) 
-                j +=1
+        arr = nums1 + nums2
+        arr.sort()
         i = 0
         while i != (len(arr)/2):
             j = -i-1
