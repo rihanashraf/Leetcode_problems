@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/rihanashraf/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
@@ -131,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rihanashraf/Leetcode_problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
