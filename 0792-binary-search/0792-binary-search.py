@@ -5,11 +5,22 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        for i in range((len(nums)/2)+len(nums)%2):
-            j = -i-1
-            if nums[i] == target:
-                return i
-            elif nums[j] == target:
-                return len(nums) + j 
+        #basic algorithm
+
+        l = 0
+        r = len(nums)-1
+
+        while l <= r:
+            m = l + (r-l)//2
+
+            if nums[m] == target:
+                return m
+            elif target < nums[m]:
+                r = m-1
+            else:
+                l = m+1
         return -1
+
+        
+                
         
