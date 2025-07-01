@@ -15,10 +15,11 @@ class Solution(object):
 
         while l<=r:
             m = l+(r-l)//2
-            if isBadVersion(m) == True:
+            if l ==m and isBadVersion(m) == True:
+                return l
+            elif isBadVersion(m) == True:
                 r = m
             else:
                 l = m+1
-            if l == m:
-                return l
+            
         
