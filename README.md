@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rihanashraf/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
