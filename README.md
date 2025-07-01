@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rihanashraf/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/rihanashraf/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
