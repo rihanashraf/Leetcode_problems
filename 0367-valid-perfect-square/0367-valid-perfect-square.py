@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         l =1
-        r = 2**16
+        r = (2**15)*1.44
         
         while l <= r:
             m = l+(r-l)//2
