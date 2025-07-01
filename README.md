@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
