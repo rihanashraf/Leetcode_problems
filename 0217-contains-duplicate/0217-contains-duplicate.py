@@ -5,9 +5,11 @@ class Solution(object):
         :rtype: bool
         """
         dicti = {}
-        for element in nums:
-            if element not in dicti:
-                dicti[element] = 1
-            elif element in dicti:
+
+        for number in nums:
+            if number not in dicti:
+                dicti[number] = 1
+            else:
                 return True
         return False
+        
