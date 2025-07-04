@@ -12,9 +12,10 @@ class Solution(object):
             if char not in dicti:
                 arr.append(char)
             else:
-                if dicti[char] in arr and dicti[char]==arr[-1]:
-                    print("yes")
-                    arr.pop()
-                else:
+                if not arr:
                     return False
+                else:
+                    popped = arr.pop()
+                    if popped != dicti[char]:
+                        return False
         return not arr
