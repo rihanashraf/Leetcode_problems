@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/rihanashraf/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/rihanashraf/Leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/rihanashraf/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/rihanashraf/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/rihanashraf/Leetcode_problems/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
