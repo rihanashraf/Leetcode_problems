@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/rihanashraf/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/rihanashraf/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/rihanashraf/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
