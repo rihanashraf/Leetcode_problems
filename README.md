@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rihanashraf/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rihanashraf/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rihanashraf/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
