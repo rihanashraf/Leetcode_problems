@@ -7,19 +7,18 @@ class Solution(object):
         """
         dicti = {}
         for letter in s:
-            if letter not in dicti:
-                dicti[letter] = 1
+            if letter in dicti:
+                dicti[letter] +=1
             else:
-                dicti[letter]+=1
-
+                dicti[letter] = 1 
+        
         for letter in t:
-            if letter in dicti and dicti[letter]>0:
+            if letter in dicti and dicti[letter] >0:
                 dicti[letter] -=1
             else:
                 return False
-        if len(s)==len(t):
-            return True
-        return False
+
+        return True if len(s) == len(t) else False
             
 
         
