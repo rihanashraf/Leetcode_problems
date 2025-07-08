@@ -5,11 +5,10 @@ class Solution(object):
         :rtype: bool
         """
         dicti = {}
-
-        for number in nums:
-            if number not in dicti:
-                dicti[number] = 1
+        for num in nums:
+            if num not in dicti:
+                dicti[num] = 1
             else:
                 return True
         return False
-        
+
