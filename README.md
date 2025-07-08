@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/rihanashraf/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/rihanashraf/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/rihanashraf/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rihanashraf/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rihanashraf/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/rihanashraf/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/rihanashraf/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rihanashraf/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rihanashraf/Leetcode_problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
