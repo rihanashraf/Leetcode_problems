@@ -11,15 +11,13 @@ class Solution(object):
         """
         curr = head
         prev = None
+
         while curr:
             temp = curr.next
             curr.next = prev
             prev = curr
             curr = temp
-        return prev #prev points to the head
-
-        #Time : O(n)
-        #Space : O(1) --> no real storage of arrays or anything
-
+            
+        return prev
 
         
