@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/rihanashraf/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/rihanashraf/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rihanashraf/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/rihanashraf/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/rihanashraf/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
