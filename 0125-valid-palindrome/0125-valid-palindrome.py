@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: bool
         """
         s = s.lower()
-        s = s.strip()
         s = "".join(char for char in s if char.isalnum())
         
         for i in range(len(s)):
