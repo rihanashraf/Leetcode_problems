@@ -5,13 +5,12 @@ class Solution(object):
         :rtype: bool
         """
         s = s.lower()
-        new_s = ""
-
-        for char in s:
-            if char.isalnum():
-                new_s += char
+        s = s.strip()
+        s = "".join(char for char in s if char.isalnum())
         
-        for i in range(len(new_s)/2):
-            if new_s[i]!= new_s[len(new_s)-i-1]:
+        for i in range(len(s)):
+            j = -i-1
+            if s[i] != s[j]:
                 return False
         return True
+        
