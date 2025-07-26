@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rihanashraf/Leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rihanashraf/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rihanashraf/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rihanashraf/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -202,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
