@@ -10,7 +10,8 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        max_length = [0]
+        max_length = [0] # this makes it a global variable, if i were to use an int here, it would be a local variable to the particular sub function in the recursive call stack
+    
         def height(root):
             if not root:
                 return 0
@@ -26,6 +27,10 @@ class Solution(object):
             return 1 + max(left_height, right_height)
         height(root)
         return max_length[0]
+
+        #Time : O(n) visiting every single node and doing a bunch of constant stuff
+        # Space : O(h) the depth of the tree is the space taken, because the call stack is open and you collect the stuff upwards
+        
 
 
         
