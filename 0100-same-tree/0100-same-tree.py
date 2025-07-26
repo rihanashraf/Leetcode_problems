@@ -11,26 +11,15 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        glob = [True]
-        def same(p, q):
+    # for same tree, this is easy
+
+        def same(p , q):
             if not p and not q:
-                return
-            if not p:
-                if q:
-                    glob[0] = False
-                    return
-            if not q:
-                if p:
-                    glob[0] = False 
-                    return 
-            if glob[0] is False:
-                return
-
+                return True
+            if (not p and q) or (not q and p):
+                return False
             if p.val != q.val:
-                glob[0] = False
-                return
-
-            right = same(p.right, q.right)
-            left = same(p.left, q.left)
-        same(p, q)
-        return glob[0]
+                return False
+            
+            return same(p.right, q.right) and same(p.left, q.left)
+        return same(p,q)
