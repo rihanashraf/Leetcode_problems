@@ -5,21 +5,18 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        i = 0
-        ans = ''
+        merged = ''
+        i=0
         while i < min(len(word1), len(word2)):
-            ans += word1[i]
-            ans += word2[i]
+            merged +=word1[i]
+            merged +=word2[i]
             i+=1
-        
+
         while i < len(word1):
-            ans+=word1[i]
+            merged+=word1[i]
             i+=1
-        while i < len(word2):
-            ans+=word2[i]
-            i+=1
-        return ans
-
-
-
         
+        while i < len(word2):
+            merged +=word2[i]
+            i+=1
+        return merged
