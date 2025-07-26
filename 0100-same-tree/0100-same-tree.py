@@ -12,7 +12,7 @@ class Solution(object):
         :rtype: bool
         """
         #Greg's solution
-
+        #important insight here is not the need to use a global but instead returning the boolean as the output of the function itself
         def balanced(p, q):
             if not p and not q:
                 return True
@@ -23,5 +23,5 @@ class Solution(object):
             if p.val != q.val:
                 return False
 
-            return balanced(p.left, q.left) and balanced(p.right, q.right)
+            return balanced(p.left, q.left) and balanced(p.right, q.right) # both the left and right sides need to be balanced or same
         return balanced(p,q)
