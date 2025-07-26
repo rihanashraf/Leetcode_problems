@@ -11,28 +11,17 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        glob = [True]
+        #Greg's solution
 
         def balanced(p, q):
-            if not p:
-                if not q:
-                    return
-                else:
-                    glob[0] = False
-                    return
-            if not q:
-                if not p:
-                    return 
-                else:
-                    glob[0] = False
-                    return
-            if glob[0] is False:
-                return 
+            if not p and not q:
+                return True
+            
+            if (p and not q) or (q and not p):
+                return False
+            
             if p.val != q.val:
-                glob[0] = False
-            left = balanced(p.left, q.left)
-            right = balanced(p.right, q.right)
-            return 
-        balanced(p,q)
-        return glob[0]
-        #did it myself yayyy!!!
+                return False
+
+            return balanced(p.left, q.left) and balanced(p.right, q.right)
+        return balanced(p,q)
