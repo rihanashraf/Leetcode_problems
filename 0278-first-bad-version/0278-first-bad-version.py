@@ -9,17 +9,17 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-
-        l=1
+        l = 0
         r = n
 
-        while l<=r:
-            m = l+(r-l)//2
-            if l ==m and isBadVersion(m) == True:
-                return l
-            elif isBadVersion(m) == True:
+        while l <=r:
+            m = l+ (r-l)//2
+
+            if isBadVersion(m) == True:
                 r = m
             else:
                 l = m+1
+            if l == m:
+                return l
+
             
-        
