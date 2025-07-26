@@ -11,17 +11,16 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        #Greg's solution
-        #important insight here is not the need to use a global but instead returning the boolean as the output of the function itself
-        def balanced(p, q):
+        def same(p, q):
             if not p and not q:
                 return True
             
-            if (p and not q) or (q and not p):
+            if (not p and q) or (not q and p):
                 return False
             
             if p.val != q.val:
                 return False
 
-            return balanced(p.left, q.left) and balanced(p.right, q.right) # both the left and right sides need to be balanced or same
-        return balanced(p,q)
+            return same(p.left, q.left) and same(p.right, q.right)
+
+        return same(p, q)
