@@ -10,7 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        balanced = [True]
+        balanced = [True] # create a global variable as a list always
 
         def height(root):
             if not root:
@@ -20,6 +20,8 @@ class Solution(object):
             if balanced[0] is False:
                 return 0
             right_height = height(root.right)
+            if balanced[0] is False:
+                return 0
 
             if abs(left_height- right_height) > 1:
                 balanced[0] = False
