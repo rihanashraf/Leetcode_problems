@@ -5,22 +5,18 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        #basic algorithm
+        left = 0
+        right = len(nums)-1
+        while left <=right:
+            mid = left + (right-left)//2
+            number = nums[mid]
 
-        l = 0
-        r = len(nums)-1
-
-        while l <= r:
-            m = l + (r-l)//2
-
-            if nums[m] == target:
-                return m
-            elif target < nums[m]:
-                r = m-1
+            if target == number:
+                return mid
+            elif target > number:
+                left = mid +1
             else:
-                l = m+1
+                right = mid -1
+            
         return -1
-
-        
-                
         
