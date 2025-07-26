@@ -4,19 +4,17 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
-        l =1
-        r = (2**15)*1.44
-        
+        l = 0
+        r = 2**16
+
         while l <= r:
             m = l+(r-l)//2
-            res = m*m
+            square = m*m 
 
-            if res == num:
+            if num == square:
                 return True
-            elif res < num:
-                l = m+1
+            elif square> num:
+                r = m-1
             else:
-                r= m-1
-        return False
-
-        
+                l = m+1
+        return False    
