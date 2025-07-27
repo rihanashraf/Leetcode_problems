@@ -11,14 +11,14 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        def has_sum(root, cur_sum):
+        def add(root, currsum):
             if not root:
                 return False
-
-            cur_sum += root.val
+            currsum += root.val
 
             if not root.left and not root.right:
-                return cur_sum == targetSum
-            
-            return has_sum(root.left, cur_sum) or has_sum(root.right, cur_sum)
-        return has_sum(root, 0)
+                if currsum == targetSum:
+                    return True
+
+            return add(root.left, currsum) or add(root.right, currsum)
+        return add(root, 0)
