@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/rihanashraf/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/rihanashraf/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/rihanashraf/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rihanashraf/Leetcode_problems/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/rihanashraf/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0572-subtree-of-another-tree) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rihanashraf/Leetcode_problems/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/rihanashraf/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rihanashraf/Leetcode_problems/tree/master/0572-subtree-of-another-tree) |
@@ -212,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rihanashraf/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
