@@ -10,22 +10,21 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        #root.left.right = root.right.left recursively
-        #pehle root.left = root.right
-        def same(root1, root2):
-            if not root1 and not root2:
+        def same(p, q):
+            if not p and not q:
                 return True
             
-            if not root1 or not root2:
+            if (not p and q) or (not q and p):
                 return False
             
-            if root1.val != root2.val:
+            if p.val != q.val:
                 return False
             
-            return same(root1.right, root2.left) and same(root1.left, root2.right)
-
+            return same(p.left, q.right) and same(p.right, q.left)
         return same(root, root)
             
+        
+
 
             
 
