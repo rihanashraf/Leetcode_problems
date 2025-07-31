@@ -10,7 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        def same(p, q):
+        def symmetric(p, q):
             if not p and not q:
                 return True
             
@@ -19,9 +19,10 @@ class Solution(object):
             
             if p.val != q.val:
                 return False
-            
-            return same(p.left, q.right) and same(p.right, q.left)
-        return same(root, root)
+            return symmetric(p.right, q.left) and symmetric(p.left, q.right)
+
+
+        return symmetric(root, root)
             
         
 
