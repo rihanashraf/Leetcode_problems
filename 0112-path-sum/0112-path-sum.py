@@ -14,11 +14,13 @@ class Solution(object):
         def add(root, currsum):
             if not root:
                 return False
+
             currsum += root.val
 
-            if not root.left and not root.right:
+            if not root.right and not root.left:
                 if currsum == targetSum:
                     return True
 
             return add(root.left, currsum) or add(root.right, currsum)
-        return add(root, 0)
+
+        return add(root, 0) 
