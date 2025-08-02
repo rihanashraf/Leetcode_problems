@@ -21,7 +21,6 @@ class Solution(object):
             makearray(root.right)
 
         makearray(root)
-        print(arr)
         return arr[k-1]
 
 
