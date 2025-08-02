@@ -10,21 +10,18 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        difference = [float]
-        store = deque()
+        difference = [float('inf')]
+        prev = [None]
 
         def smallest(root):
             if not root:
                 return
 
             smallest(root.left)
-            store.append(root.val)
+            if prev[0] is not None:
+                difference[0] = min(difference[0], root.val - prev[0])
 
-            if len(store) == 2:
-                diff = abs(store[1]-store[0])
-                store.popleft()
-                if diff < difference[0]:
-                    difference[0] = diff
+            prev[0] = root.val
 
             smallest(root.right)
 
