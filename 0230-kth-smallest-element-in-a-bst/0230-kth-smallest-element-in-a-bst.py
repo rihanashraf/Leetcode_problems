@@ -11,17 +11,26 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        arr=[]
-        def makearray(root):
+        #Greg's solution
+
+        count = [k]
+        ans = [0]
+
+        def smallest(root):
             if not root:
                 return 
 
-            makearray(root.left)
-            arr.append(root.val)
-            makearray(root.right)
+            smallest(root.left)
 
-        makearray(root)
-        return arr[k-1]
+            if count[0] ==1:
+                ans[0] = root.val
+
+            count[0] = count[0]-1
+            if count[0] >= 1:
+                smallest(root.right)
+
+        smallest(root)
+        return ans[0]
 
 
 
