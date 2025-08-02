@@ -14,18 +14,22 @@ class Solution(object):
         def same(p, q):
             if not p and not q:
                 return True
+
             if (not p and q) or (not q and p):
                 return False
+
             if p.val != q.val:
                 return False
-            return same(p.right, q.right) and same(p.left, q.left)
 
-        def subTree(root):
+            return same(p.left, q.left) and same(p.right, q.right)
+
+        def subtree(root):
             if not root:
                 return False
+            
             if same(root, subRoot):
                 return True
-            return subTree(root.left) or subTree(root.right)
-        return subTree(root)
 
-        
+            return subtree(root.left) or subtree(root.right)
+        return subtree(root)
+                  
