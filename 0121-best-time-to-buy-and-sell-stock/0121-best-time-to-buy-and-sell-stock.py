@@ -5,25 +5,17 @@ class Solution(object):
         :rtype: int
         """
         max_profit = 0
-        min_number = float('inf')
-
+        min_price = float("inf")
         for price in prices:
-            if price < min_number:
-                min_number = price
+            if price < min_price:
+                min_price = price
 
-            profit = price - min_number
+            profit = price - min_price
 
             if profit > max_profit:
                 max_profit = profit
 
         return max_profit
 
-
-        
-
-        
-
-
-            
 
         
