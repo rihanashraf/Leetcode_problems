@@ -22,5 +22,4 @@ class Solution(object):
                     return True
 
             return add(root.left, currsum) or add(root.right, currsum)
-
-        return add(root, 0) 
+        return add(root, 0)
