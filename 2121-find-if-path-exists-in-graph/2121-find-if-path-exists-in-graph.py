@@ -19,17 +19,15 @@ class Solution(object):
 
         seen = set()
         seen.add(source)
-
-        ans = [False]
         def dfs(node):
+            if node == destination:
+                return True
             for node in D[node]:
-                if node == destination:
-                    ans[0] = True
                 if node not in seen:
                     seen.add(node)
-                    dfs(node)
-
-        dfs(source)
-        return ans[0]
+                    if dfs(node):
+                        return True 
+            return False
+        return dfs(source)
                 
         
