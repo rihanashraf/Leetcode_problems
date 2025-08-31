@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rihanashraf/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rihanashraf/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/rihanashraf/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/rihanashraf/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/rihanashraf/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/rihanashraf/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rihanashraf/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rihanashraf/Leetcode_problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/rihanashraf/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rihanashraf/Leetcode_problems/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
