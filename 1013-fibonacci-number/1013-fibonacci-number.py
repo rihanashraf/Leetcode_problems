@@ -4,7 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        #O(n) - top down memoization
+        #O(n) time- top down memoization
+        #O(n) space - recursive call stack is the height of the tree
         dicti = {0:0, 1:1}
         def fib(n):
             if n in dicti:
