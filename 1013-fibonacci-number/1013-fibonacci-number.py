@@ -4,14 +4,22 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n == 1:
-            return 1
-        elif n == 0:
-            return 0
+        #O(n) - top down memoization
+        dicti = {0:0, 1:1}
+        def fib(n):
+            if n in dicti:
+                return dicti[n]
+            
+            else:
+                dicti[n] = fib(n-1) + fib(n-2)
+                return dicti[n]
 
-        return self.fib(n-1) + self.fib(n-2)
+        return fib(n)
 
-        #naive recursive and hence is O(2^n), because at the last level it would be doubling, tree kinda approach
-        #rememvber stuff in a dictionary for memoization, memo/cache for remembering
-         
+            
+
+
+
+
+
         
