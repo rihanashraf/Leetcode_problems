@@ -1,24 +1,16 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         dicti = {}
-        for letter in s:
-            if letter not in dicti:
-                dicti[letter] = 1
+        for a in s:
+            if a in dicti:
+                dicti[a] +=1
             else:
-                dicti[letter] +=1
-        if len(s) != len(t):
-            return False
-
-        for letter in t:
-            if letter in dicti and dicti[letter] > 0:
-                dicti[letter] -=1
+                dicti[a] = 1
+            
+            
+        for b in t:
+            if b in dicti and dicti[b] != 0:
+                dicti[b] -=1
             else:
                 return False
-        return True
-         
-        
+        return True if len(s) == len(t) else False 
