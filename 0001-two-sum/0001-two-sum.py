@@ -1,15 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dicti = {}
         for i in range(len(nums)):
-                dicti[nums[i]] = i
+            for j in range(len(nums)):
+                if nums[i] + nums[j] == target and i != j:
+                    return [i, j]
 
-
-        for i in range(len(nums)):
-            num = target - nums[i]
-            if num in dicti and dicti[num] != i:
-                return [i, dicti[num]]
-
+        
         
 
         
