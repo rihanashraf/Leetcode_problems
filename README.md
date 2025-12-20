@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/rihanashraf/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rihanashraf/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/rihanashraf/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/rihanashraf/Leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/rihanashraf/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/rihanashraf/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rihanashraf/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rihanashraf/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rihanashraf/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rihanashraf/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rihanashraf/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rihanashraf/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rihanashraf/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
