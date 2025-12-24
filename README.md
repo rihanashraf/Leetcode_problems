@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/rihanashraf/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/rihanashraf/Leetcode_problems/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/rihanashraf/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/rihanashraf/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/rihanashraf/Leetcode_problems/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/rihanashraf/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## Sorting
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rihanashraf/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rihanashraf/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/rihanashraf/Leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rihanashraf/Leetcode_problems/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
@@ -169,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rihanashraf/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rihanashraf/Leetcode_problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -283,4 +288,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rihanashraf/Leetcode_problems/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rihanashraf/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
