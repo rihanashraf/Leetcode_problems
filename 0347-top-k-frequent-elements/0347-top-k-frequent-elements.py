@@ -1,28 +1,21 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        dicti = {}
-        n = len(nums)
+        count = {}
+        freq = [[] for i in range(len(nums) + 1)]
 
-        for number in nums:
-            if number in dicti:
-                dicti[number] +=1
-            else:
-                dicti[number] = 1
-        freq = []
+        for num in nums:
+            count[num] = 1 + count.get(num, 0)
+        for num, cnt in count.items():
+            freq[cnt].append(num)
 
-        for i in range(n+1):
-            freq.append([])
-        
-
-        for number in dicti:
-            freq[dicti[number]].append(number)
         res = []
-
-        for l in range(n, 0, -1):
-            for number in freq[l]:
-                res.append(number)
+        for i in range(len(freq) - 1, 0, -1):
+            for num in freq[i]:
+                res.append(num)
                 if len(res) == k:
                     return res
 
+    #THIS IS THE BUCKET SORT SOLUTION
+    
 
                  
